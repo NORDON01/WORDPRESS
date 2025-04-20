@@ -19,3 +19,20 @@ admin pswd: 3$y5K&7jt1
 admin email: admin@gnordon.com
 
 DESINSTALLER WORDPRESS : Aller sur "SOFTACULOUS" et INSTALLATIONS (HAUT DE PAGE)
+
+===================================================================================================
+1 Installation de XAMPP dans /opt/lampp (Linux Apache MariaDB PHP Perl)
+Pour trouver lampp (Files pour XAMPP):
+  cd /
+  puis ls...
+  puis cd opt
+  puis cd lampp
+
+Pour effacer lampp:
+  sudo rm -rf lampp  
+Pour lancer / arrêter xampp en CLI:  
+  sudo /opt/lampp/lampp start or stop
+
+!!! Pour accéder à l'interface image dans lampp:
+  ./manager-linux-x64.run
+  script 👍bash xampp.sh
