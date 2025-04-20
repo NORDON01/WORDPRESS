@@ -36,3 +36,19 @@ Pour lancer / arrêter xampp en CLI:
 !!! Pour accéder à l'interface image dans lampp:
   ./manager-linux-x64.run
   script 👍bash xampp.sh
+
+*******
+LAMPPWP
+*******
+ Choisir "How to Install WordPress Locally [using LocalWP on Ubuntu Desktop]"
+ Aller sur "ressources" (et non DOWNLOAD) et "releases"
+Puis:
+  sudo apt update
+  cd Téléchargements/
+  sudo apt install ./local-9.0.1-linux.deb
+  
+Les paquets suivants contiennent des dépendances non satisfaites :
+ local : Dépend: libaio1 mais il n'est pas installable
+         Dépend: libncurses5 mais il n'est pas installable
+œE: Impossible de corriger les problèmes, des paquets défectueux sont en mode « garder en l'état ».
+
