@@ -21,7 +21,21 @@ admin email: admin@gnordon.com
 DESINSTALLER WORDPRESS : Aller sur "SOFTACULOUS" et INSTALLATIONS (HAUT DE PAGE)
 
 ===================================================================================================
+*****
+XAMPP
+*****
+
 1 Installation de XAMPP dans /opt/lampp (Linux Apache MariaDB PHP Perl)
+Pour installer XAMPP:
+ Aller dans "Téléchargements" et trouver le package téléchargé
+ Puis:
+    sudo chmod 755 [package_name]
+    ls –l [package_name]
+ Puis:
+    installer XAMPP: 
+    sudo ./[package_name]
+Puis: suivants...
+
 Pour trouver lampp (Files pour XAMPP):
   cd /
   puis ls...
@@ -30,12 +44,19 @@ Pour trouver lampp (Files pour XAMPP):
 
 Pour effacer lampp:
   sudo rm -rf lampp  
+
 Pour lancer / arrêter xampp en CLI:  
   sudo /opt/lampp/lampp start or stop
 
+Check that net-tools are installed: sudo apt install net-tools
 !!! Pour accéder à l'interface image dans lampp:
-  ./manager-linux-x64.run
-  script 👍bash xampp.sh
+   script 👍bash xampp.sh
+
+*******
+MARIADB
+*******
+ To start MARIADB: sudo mysql
+
 
 *******
 LAMPPWP
@@ -49,6 +70,27 @@ Puis:
   
 Les paquets suivants contiennent des dépendances non satisfaites :
  local : Dépend: libaio1 mais il n'est pas installable
-         Dépend: libncurses5 mais il n'est pas installable
-œE: Impossible de corriger les problèmes, des paquets défectueux sont en mode « garder en l'état ».
+        Dépend: libncurses5 mais il n'est pas installable
+Impossible de corriger les problèmes, des paquets défectueux sont en mode « garder en l'état».
 
+***
+OVH
+***
+Domaine: 
+  -gnordon.ovh
+  -id: georges.nordon@gmail.com
+  -mdp: 24e9443628ovh
+
+Mon profil:
+  -Nichandle: ng135281-ovh
+  -Code client: 3440-1352-81 
+
+Administrateur:
+  -georges.nordon@gmail.com
+  -ng135281-ovh
+
+WordPress:
+  -id: georges.nordon@gmail.com
+  -mdp: 5mhftN3stZqa
+
+Auteur: admin7797 pour un document  
