@@ -76,10 +76,46 @@ Impossible de corriger les problèmes, des paquets défectueux sont en mode « g
 ***
 OVH
 ***
-Domaine: 
+I DOMAINE OVH (Accéder à mon domaine chez ovh): 
   -gnordon.ovh
   -id: georges.nordon@gmail.com
   -mdp: 24e9443628ovh
+  -Dashboard de OVH: https://www.ovh.com/manager/#/hub/
+
+II SITE WORDPRESS (Themes,...)
+  -Dashboard de WordPress: https://gnordon.ovh/wp-admin/              47mn
+  -My web site: https://gnordon.ovh/                                  1h 17mn
+  -Mon compte WP: admin7797 (menu Comptes) 
+  -Rubriques barre de titre horizontale: 
+              * Aller sur mon site: "Modifier mon site"
+              * Commentaires
+              * Mises à jour
+              * +: Ajouter un compte, un article, un fichier media, une page
+              * Bonjour admin7797: quitter, profil
+
+  -Documentation: https://fr.wordpress.org/support/
+                              
+************
+WP DASHBOARD (Tableau de bord)
+************                        
+ADMIN BAR: 
+  Aller sur le site
+  Tableau de bord
+  Créer (article, meia, page, compte)
+
+SIDE BAR:
+Articles = Posts        Published, pending,
+Media = Media
+Pages = Pages
+Commentaires = Comments
+Apparence = Appearence
+Extensions = Plugins
+Comptes = Users
+Outils = Tools
+Réglages = Settings
+
+Blocs = Widgets
+
 
 Mon profil:
   -Nichandle: ng135281-ovh
@@ -93,4 +129,4 @@ WordPress:
   -id: georges.nordon@gmail.com
   -mdp: 5mhftN3stZqa
 
-Auteur: admin7797 pour un document  
+
