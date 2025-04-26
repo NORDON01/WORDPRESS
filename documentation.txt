@@ -104,7 +104,7 @@ ADMIN BAR:
   Créer (article, meia, page, compte)
 
 SIDE BAR:
-Articles = Posts        Published, pending,
+Articles = Posts        Published, pending review,
 Media = Media
 Pages = Pages
 Commentaires = Comments
@@ -114,8 +114,9 @@ Comptes = Users
 Outils = Tools
 Réglages = Settings
 
+AUTRES:
 Blocs = Widgets
-
+Modifier la page = Editor
 
 Mon profil:
   -Nichandle: ng135281-ovh
