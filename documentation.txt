@@ -58,9 +58,9 @@ MARIADB
  To start MARIADB: sudo mysql
 
 
-*******
-LAMPPWP
-*******
+********
+LAMPP WP
+********
  Choisir "How to Install WordPress Locally [using LocalWP on Ubuntu Desktop]"
  Aller sur "ressources" (et non DOWNLOAD) et "releases"
 Puis:
@@ -83,8 +83,11 @@ I DOMAINE OVH (Accéder à mon domaine chez ovh):
   -Dashboard de OVH: https://www.ovh.com/manager/#/hub/
 
 II SITE WORDPRESS (Themes,...)
-  -Dashboard de WordPress: https://gnordon.ovh/wp-admin/              47mn
-  -My web site: https://gnordon.ovh/                                  1h 17mn
+  -Dashboard de WordPress: https://gnordon.ovh/wp-admin/              
+Le Spectacle Militaire
+37.8K subscribers
+
+  -My web site: https://gnordon.ovh/                                  
   -Mon compte WP: admin7797 (menu Comptes) 
   -Rubriques barre de titre horizontale: 
               * Aller sur mon site: "Modifier mon site"
@@ -130,4 +133,23 @@ WordPress:
   -id: georges.nordon@gmail.com
   -mdp: 5mhftN3stZqa
 
+POST vs PAGE:
+ Les pages sont souvent utilisées pour du contenu intemporel comme l’histoire de   l’entreprise, les profils de l’équipe, les services, les produits et les coordonnées de contact. En revanche, les articles ont une date de publication.
 
+WIDGET:
+  Une zone de type pied de page ou menu latéral. Un Widget est installé pour ajouter du contenu: media, navigation, articles récents, commentaires, menu... 
+
+LISTER TOUS LES THEMES:
+Apparence => Thèmes => "ajouter un thème"
+PLUGINS:
+  Populaire
+
+ACCEDER A LA BARRE D'OUTILS: "/"
+
+SUPPRIMER UN THEME:
+  Via le tableau de bord WordPress, c'est le moyen le plus simple de le faire. Si vous avez accès aux écrans d’administration, c’est la façon recommandée.
+  Dans votre site WordPress, allez dans Apparence > Thèmes. Vous verrez tous les thèmes installés s’afficher avec le thème actif en premier dans la liste.
+  Dans la liste, cliquez sur le thème que vous voulez supprimer pour voir ses détails.
+  Dans le coin inférieur droit, il y a un lien "Supprimer"
+
+  1h 51mn 30s
