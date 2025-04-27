@@ -120,6 +120,7 @@ Réglages = Settings
 AUTRES:
 Blocs = Widgets
 Modifier la page = Editor
+Confidentialité = Privacy policy
 
 Mon profil:
   -Nichandle: ng135281-ovh
@@ -152,4 +153,13 @@ SUPPRIMER UN THEME:
   Dans la liste, cliquez sur le thème que vous voulez supprimer pour voir ses détails.
   Dans le coin inférieur droit, il y a un lien "Supprimer"
 
-  1h 51mn 30s
+  ***************************
+  SOMMAIRE - 8 HOURS TUTORIAL
+  ***************************
+  1h 56mn 30s   Mon profil, settings...
+  2H 08mn       Media
+  2H 24mn       Start managing Posts
+
+
+
+  
