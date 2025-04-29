@@ -153,6 +153,18 @@ SUPPRIMER UN THEME:
   Dans la liste, cliquez sur le thème que vous voulez supprimer pour voir ses détails.
   Dans le coin inférieur droit, il y a un lien "Supprimer"
 
+*******
+ARTICLE
+*******
+  Aller sur "en haut" sur le menu horizontal: "Modifier article"
+  A droite du bouton bleu "publier" choisir les ... puis choisir Editeur visuel ou code
+
+  Pour avoir le menu latéral gauche:
+  A droite du bouton bleu "publier" choisir les ... puis choisir Vue "Barre d'outils supérieure" puis sur le bouton bleu "+" pour avoir les medias...
+
+  Supprimer un bloc:
+  Aller dans le menu latéral gauche et faire: ctrl + shift + backspace
+
   ***************************
   SOMMAIRE - 8 HOURS TUTORIAL
   ***************************
