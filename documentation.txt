@@ -165,6 +165,21 @@ ARTICLE
   Supprimer un bloc:
   Aller dans le menu latéral gauche et faire: ctrl + shift + backspace
 
+************************************
+CREER UN UTILISATEUR LAMBDA AVEC OVH
+************************************
+
+   Comment puis-je créer un compte utilisateur sur OVH ?
+   Étapes pour ajouter un utilisateur :
+
+    Connectez-vous à votre compte OVH: https://www.ovh.com/manager/#/hub/
+
+    Cliquez sur votre nom en haut à droite et sélectionnez « Mon compte ».
+    Allez dans l'onglet « Identités et accès (IAM) ».
+    Cliquez sur « Créez des utilisateurs », puis sur « Ajouter un utilisateur ».
+    Remplissez le formulaire et validez.
+
+
   ***************************
   SOMMAIRE - 8 HOURS TUTORIAL
   ***************************
