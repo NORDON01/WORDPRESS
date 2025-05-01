@@ -175,7 +175,7 @@ CREER UN UTILISATEUR LAMBDA AVEC OVH
     Connectez-vous à votre compte OVH: https://www.ovh.com/manager/#/hub/
 
     Cliquez sur votre nom en haut à droite et sélectionnez « Mon compte ».
-    Allez dans l'onglet « Identités et accès (IAM) ».
+    Allez dans l'onglet « Identités et accès (IAM) ».git 
     Cliquez sur « Créez des utilisateurs », puis sur « Ajouter un utilisateur ».
     Remplissez le formulaire et validez.
 
